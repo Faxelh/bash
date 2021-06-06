@@ -16,7 +16,7 @@
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
 
-# `Termux user only`
+# `For Termux user only.`
 ```
 clear; pkg update ;pkg install python3 && python ; git clone https://github.com/threat0/bash.git ; cd bash ; python3 setup.py
 ```
