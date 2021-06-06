@@ -3,6 +3,9 @@
 <a href="#"><img title="Made in Ivory Coast" src="https://img.shields.io/badge/MADE%20IN-IVORY COAST-green?colorA=%23ff0000&colorB=%23017e40"></a>
 </p>
 
+<p align="right">
+  <img alt="profile pic"src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/> 
+</p>
 <p align="center"
 <a href="https://github.com/threat0/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 </p>
@@ -38,9 +41,6 @@ clear; pkg update ;pkg install python3 && python ; git clone https://github.com/
 [![LICENSE](https://img.shields.io/badge/license-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/threat0/insta_down/master/LICENSE)
 
 
-<p align="right">
-  <img alt="profile pic"src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/> 
-</p>
 <p align="center">
 <img alt="Faxel' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=threat0&show_icons=true&include_all_commits=true&hide_border=true"/>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=threat0&hide=ruby,perl&hide_border=true"/>
