@@ -16,13 +16,9 @@
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
 
-# `Installation sur Linux`
+# `Termux user only`
 ```
-sudo apt-get update ; git clone https://github.com/threat0/Bash.git ; cd Bash ; python3 setup.py
-```
-# `Installation sur Termux`
-```
-clear; pkg update ;pkg install python3 && python ; git clone https://github.com/threat0/Bash.git ; cd Bash ; python3 setup.py
+clear; pkg update ;pkg install python3 && python ; git clone https://github.com/threat0/bash.git ; cd bash ; python3 setup.py
 ```
 ## `DEMO : `
 <p align="center"> 
