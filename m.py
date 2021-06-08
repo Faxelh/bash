@@ -45,7 +45,7 @@ def Update():
   _cls()
   load("\033[1;97m Veuillez patientez nous vérifions s'il y a une mise à jour\033[1;93m ")
   prec();_cls();print(Dev_faxel)
-  os.system('git pull origin master')
+  os.system('git fetch origin')
   raw_input("\t\033[1;91m[\033[38;5;90m!\033[1;91m]\033[1;9;38;5;95m Hit Enter \033[1;0;1;91m[\033[38;5;9m!\033[1;91m]")
   os.system("cd $HOME/bash && python3 setup.py ")
  else:
