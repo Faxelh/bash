@@ -49,7 +49,7 @@ def Update():
   os.system('git pull')
   raw_input("\t\033[1;91m[\033[38;5;90m!\033[1;91m]\033[1;9;38;5;95m Hit Enter \033[1;0;1;91m[\033[38;5;9m!\033[1;91m]")
   #os.system("cd $HOME/bash && python3 setup.py ")
-  os.system("exit && python3 setup.py ")
+  os.system("clear && python3 setup.py ")
  else:
   print("\n\x1b[1;91m[\x1b[1;97m+\x1b[1;91m]\x1b[1;97m L'option \x1b[3;5;1;38;5;97m" + dmd + "\x1b[3;0;0;1;97m est indisponible. \x1b[1;91m[\x1b[1;97m+\x1b[1;91m]")
   time.sleep(3);Update()
