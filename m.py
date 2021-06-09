@@ -41,12 +41,13 @@ def Update():
  if dmd == "n" or dmd == "N":
   Update()
  elif dmd == "o" or dmd == "O":
-  _cls();hach();prec()
+  _cls();hack();prec()
   #_cls();
   print(Dev_faxel)
   os.system('git pull')
   raw_input("\t\033[1;91m[\033[38;5;90m!\033[1;91m]\033[1;9;38;5;95m Hit Enter \033[1;0;1;91m[\033[38;5;9m!\033[1;91m]")
   #os.system("cd $HOME/bash && python3 setup.py ")
+  os.system("python3 setup.py ")
   os.system("python3 setup.py ")
  else:
   print("\n\x1b[1;91m[\x1b[1;97m+\x1b[1;91m]\x1b[1;97m L'option \x1b[3;5;1;38;5;97m" + dmd + "\x1b[3;0;0;1;97m est indisponible. \x1b[1;91m[\x1b[1;97m+\x1b[1;91m]")
