@@ -28,15 +28,12 @@ clear; pkg update ;pkg install python3 && python ; git clone https://github.com/
   <img src="https://raw.githubusercontent.com/threat0/Bash/master/demo/bash.png" width="700" heigh="500"/></br>
 </p>
 
-## `Si vous copiez ce code, alors donnez-moi les crédits & retrouver moi sur : ` 
+## `If you copy this code, then give me the credits & find me on : ` 
 
 [![Github](https://img.shields.io/badge/Github-%40threat0-cyan?logo=github)](https://github.com/threat0)
 [![Twitter](https://img.shields.io/twitter/follow/Faxel.svg?label=Me%20suivre&logo=twitter)](https://twitter.com/faxelhs)
-[![Instagram](https://img.shields.io/badge/Instagram-%40Faxel-magenta?logo=instagram)](https://www.instagram.com/faxelh)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-%40Faxel-whatsapp--green?logo=whatsapp)](https://wa.me/message/HKD56CAXOBLNC1)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Faxel-cyan?logo=telegram)](https://t.me/Faxelh)
 [![Pastebin](https://img.shields.io/badge/Pastebin-%40Faxel-purple?logo=pastebin)](https://pastebin.com/u/Faxelh)
-[![Facebook](https://img.shields.io/badge/Facebook-%40Faxel-teal?logo=Facebook)](https://www.facebook.com/threatz0)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
 [![LICENSE](https://img.shields.io/badge/license-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/threat0/insta_down/master/LICENSE)
 
