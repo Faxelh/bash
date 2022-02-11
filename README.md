@@ -4,19 +4,19 @@
 </p>
 
 <p align="right">
-  <img alt="profile pic"src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/> 
+  <img alt="profile pic" src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/> 
 </p>
 <p align="center"
-<a href="https://github.com/threat0/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
+<a href="https://github.com/threat0/"><img title="Author" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github" alt=""></a>
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-v2021.1.1-green.svg?"></a>
-<a href="https://github.com/threat0/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/threat0?color=blue"></a>
-<a href="https://github.com/threat0/insta_down/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/threat0/Bash??color=red"></a>
-<a href="https://github.com/threat0/insta_down/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/threat0/Bash??color=red"></a>
-<a href="https://github.com/threat0/insta_down/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/threat0/Bash?label=Watchers&color=blue"></a>
+<a href="https://github.com/threat0/followers"><img title="Followers" src="https://img.shields.io/github/followers/threat0?color=blue"></a>
+<a href="https://github.com/threat0/insta_down/stargazers/"><img title="Star" src="https://img.shields.io/github/stars/threat0/Bash??color=red"></a>
+<a href="https://github.com/threat0/insta_down/network/members"><img title="Forks" src="https://img.shields.io/github/forks/threat0/Bash??color=red"></a>
+<a href="https://github.com/threat0/insta_down/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/threat0/Bash?label=Watchers&color=blue"></a>
 <p align="right">
-<a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
+<a href="#"><img title="Language" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
 
 # `For Termux user only.`
