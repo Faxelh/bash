@@ -25,7 +25,7 @@ clear; pkg update ;pkg install python3 && python ; git clone https://github.com/
 ```
 ## `DEMO : `
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Faxelh/Bash/master/demo/bash.png" width="700" heigh="500"/></br>
+  <img src="https://github.com/Faxelh/bash/blob/main/bash.png"/>
 </p>
 
 ## `If you copy this code, then give me the credits ` 
